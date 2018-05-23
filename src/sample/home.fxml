@@ -26,11 +26,11 @@
       <FontAwesomeIconView glyphName="USER" layoutX="335.0" layoutY="160.0" size="25" />
       <FontAwesomeIconView glyphName="LOCK" layoutX="336.0" layoutY="219.0" size="25" />
       <JFXButton fx:id="BtnLogin" layoutX="417.0" layoutY="254.0" prefHeight="25.0" prefWidth="60.0" style="-fx-background-color: #4059a9;" text="Login" textFill="#05ffc9" />
-      <Label layoutX="338.0" layoutY="362.0" text="DB Status" textFill="#f83c43">
+      <Label layoutX="336.0" layoutY="362.0" text="DB Status" textFill="#f83c43">
          <font>
             <Font size="13.0" />
          </font>
       </Label>
-      <Label fx:id="dbStatus" layoutX="417.0" layoutY="363.0" prefHeight="25.0" prefWidth="154.0" textFill="#ff0f0f" />
+      <Label fx:id="dbStatus" layoutX="417.0" layoutY="359.0" prefHeight="25.0" prefWidth="154.0" textFill="#ff0f0f" />
    </children>
 </AnchorPane>
